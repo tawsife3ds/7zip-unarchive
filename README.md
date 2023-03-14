@@ -1,7 +1,7 @@
 # 7zip-unarchive
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A demo project for node-7z unarchive using both **7z-bin** and **7z-exe**. 
 
 ## Installation
 ### `npm i`
