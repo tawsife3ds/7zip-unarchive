@@ -10,7 +10,7 @@ A demo project for node-7z unarchive using both **7z-bin** and **7z-exe**.
 ### `node index.js`
 
 ## Output
-An Output folder will be created in the root directory containing two sub directories.
+An `output` folder will be created in the root directory containing two sub directories.
   - exe
   - bin
 
