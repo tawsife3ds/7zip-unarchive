@@ -14,6 +14,8 @@ An `output` folder will be created in the root directory containing two sub dire
   - exe
   - bin
 
+Inside each of the directories we would find the files packed inside `archive.7z` that comes with the demo.
+
 
 
 
