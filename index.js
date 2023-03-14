@@ -24,3 +24,6 @@ async function extractWith7zExe() {
     })
     console.log("Extraction Done Using 7z .exe");
 }
+
+extractWith7zBin();
+extractWith7zExe();
